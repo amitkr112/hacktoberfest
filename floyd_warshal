@@ -50,10 +50,6 @@ using namespace std;
 //std::ofstream out("output.txt");
 /*
 
-INT_MIN Minimum value for a variable of type int. -2147483647 
-INT_MAX Maximum value for a variable of type int.  2147483647
-LLONG_MIN Minimum value for a variable of type long long. -9,223,372,036,854,775,807 
-LLONG_MAX Maximum value for a variable of type long long.  9,223,372,036,854,775,807
 
 
 bool comp(ll a,ll b) 
