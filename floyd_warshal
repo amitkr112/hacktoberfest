@@ -45,9 +45,6 @@ using namespace std;
 #define see(x)         cout<<#x<<" = "<<x<<endl
 #define see2(x,y)      cout<<#x<<" = "<<x<<"::"<<#y<<" = "<<y<<endl
 
-
-//std::ifstream in("input.txt");
-//std::ofstream out("output.txt");
 /*
 
 
