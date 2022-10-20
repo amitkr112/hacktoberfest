@@ -47,25 +47,6 @@ using namespace std;
 
 /*
 
-
-
-bool comp(ll a,ll b) 
-{ return (a < b); } 
-ll spf[1000005];
-void build()
-{
-    for(ll i=2;i<1000005;i++)
-    {
-        if(!spf[i])
-        {
-            for(ll j=1;j*i<1000005;j++)
-            {
-            if(!spf[i*j])
-              spf[i*j]=i;  
-            }
-        }
-    }
-}
 map<ll,ll>allpowofno(ll n)
 {
     map<ll,ll>mp;
