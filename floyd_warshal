@@ -67,7 +67,7 @@ ll primepow(ll n,ll k)
     ll res=0;
     while(n)
     {
-      n/=k;
+      n/=k; //t
       res+=n;
     }
     return res;}
