@@ -63,12 +63,12 @@ map<ll,ll>allpowofno(ll n)
     mp[n]++;
     return mp;}
 ll primepow(ll n,ll k)
-{  
+7u8im{  
     ll res=0;
     while(n)
     {
       n/=k; //t /////////asdklfajd;lfaj
-
+/////////////
       res+=n;
     }
     return res;}
