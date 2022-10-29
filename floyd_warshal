@@ -69,7 +69,10 @@ ll primepow(ll n,ll k)
     {
       n/=k; //t /////////asdklfajd;lfaj
 /////////////
-////////////
+///////////
+//////////
+/////////dalkdafdja'lf
+
       res+=n;
     }
     return res;}
